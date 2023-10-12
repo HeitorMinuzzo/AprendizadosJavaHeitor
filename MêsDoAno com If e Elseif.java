@@ -58,4 +58,4 @@ public class meses {
         }
 	}
 }
-//Programa mostra o mês do ano de acordo com o número que o usúario digita
+//Programa mostra o mês do ano de acordo com o número que o usuário digita
