@@ -11,3 +11,4 @@ public class medias {
     }
 
 }
+//O usuario insere 3 valores, após isso acontece a soma desses números, o resultado da soma é dividido por 3, assim, mostrado a média...
